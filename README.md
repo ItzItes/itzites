@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm ites! 👋
 
-<!--
-**ItzItes/itzites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFEA&center=true&vCenter=true&width=500&height=100&lines=ites;print(%22Hello%2C+World!%22);%3E+Hello%2C+World!" alt="Typing Animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=glitch&fontAlign=50&fontAlignY=40&color=000000&fontColor=00FFEA&text=HELLO%20WORLD&height=150&fontSize=60" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Cyberpunk_Vibe-FF003C?style=for-the-badge" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itzites&show_icons=true&theme=tokyonight&hide_border=true" alt="itzites stats" />
+</p>
+
+</div>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://github.com/itzites"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
