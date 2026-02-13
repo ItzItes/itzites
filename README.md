@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=80&lines=%3E+python3+ites.py;%3E+print(%22Hello%2C+World!%22);%3E+Hello%2C+World!" alt="Ites Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=80&lines=%3E+nano+ites.py;%3E+print(%22Hello%2C+World!%22);%3E+python3+ites.py;%3E+Hello%2C+World!" alt="Ites Terminal" />
 
 <br/>
 
