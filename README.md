@@ -25,3 +25,10 @@
 <br/>
 
 ---
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzites&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00f2ff&icon_color=7000ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzites&theme=tokyonight&hide_border=true&background=050505&ring=00f2ff&currStreakLabel=00f2ff" width="48%" />
+</p>
+
+---
